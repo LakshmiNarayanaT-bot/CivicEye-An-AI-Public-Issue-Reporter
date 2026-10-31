@@ -1,0 +1,6 @@
+{
+  "name": "CivicEye – AI Public Issue Reporter",
+  "description": "AI-powered civic issue detection, multilingual complaint generation, and official reporting assistance.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
